@@ -44,11 +44,6 @@
                                             <input id="frist_name" type="text" class="form-control" name="frist_name"
                                                 autofocus="">
                                         </div>
-                                        <div class="form-group col-12" >
-                                            <label for="frist_name">First Name</label>
-                                            <input id="frist_name" type="text" class="form-control" name="frist_name"
-                                                autofocus="">
-                                        </div>
                                     </div>
 
                                     <div class="form-group">
